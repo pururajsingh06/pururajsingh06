@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Pururaj Singh 👋<br>🚀 Full-Stack Developer | AI/ML Enthusiast | Problem Solver<br><br>I’m a passionate developer who loves building real-world projects that combine AI, Web Development, and Real-Time Systems.<br>Currently exploring scalable architectures, intelligent systems, and interactive web applications.<br><br>🧠 About Me<br>      -🎓 Engineering Student  <br>      -💻 Interested in Full-Stack Development & AI/ML<br>      -⚡ Building projects involving:<br>                     1. Real-time collaboration<br>                    2. AI-powered systems<br>                    3. WebSockets & REST APIs<br>                    4. Traffic simulation & automation<br>                    5. Sentiment Analysis using Transformers<br>🌱 Currently learning:<br>       - Advanced Backend Architecture<br>       - Reinforcement Learning<br>       - Cloud Deployment & DevOps<br>🎯 Goal: Build impactful products with intelligent user experiences
+Hi, I’m Pururaj Singh 👋<br>A passionate developer focused on building impactful and innovative tech projects using Full-Stack Development, AI/ML, and Real-Time Systems.<br><br>💻 I enjoy creating:<br><br>Real-time collaborative platforms using WebSockets<br>AI/ML projects with modern models like XLM-Roberta<br>Smart web applications with responsive and modern UI/UX<br>Simulation-based projects and engineering applications<br>Full-stack systems using modern frontend and backend technologies<br><br>🚀 Current Interests:<br><br>Artificial Intelligence & Machine Learning<br>Real-Time Collaboration Systems<br>Full-Stack Web Development<br>System Design & Scalable Applications<br>Developer Tools & Productivity Platforms<br><br>🛠️ Tech Stack:<br><br>Frontend: React, TypeScript, HTML, CSS, Tailwind<br>Backend: Node.js, Express, PHP, MySQL<br>AI/ML: Python, Transformers, XLM-Roberta, SHAP<br>Tools: Git, GitHub, Figma, VS Code<br><br>📚 I love learning new technologies, solving real-world problems, and building projects that combine creativity with functionality.<br><br>🌱 Always exploring new ideas and improving my development skills one project at a time.
 
 
 ## 🌐 Socials:
@@ -10,9 +10,6 @@ Hi there, I'm Pururaj Singh 👋<br>🚀 Full-Stack Developer | AI/ML Enthusiast
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=pururajsingh06&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=pururajsingh06&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pururajsingh06&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
