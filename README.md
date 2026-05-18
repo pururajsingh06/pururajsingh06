@@ -15,7 +15,7 @@ Hi, I’m Pururaj Singh 👋<br>A passionate developer focused on building impac
 ![](https://github-profile-trophy.vercel.app/?username=pururajsingh06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=pururajsingh06&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pururajsingh06&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
