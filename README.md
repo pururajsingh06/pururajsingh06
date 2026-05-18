@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Pururaj Singh 👋<br>A passionate developer focused on building impactful and innovative tech projects using Full-Stack Development, AI & MACHINE LEARNING, and Real-Time Systems.
+Hi, I’m Pururaj Singh 👋<br>A passionate developer focused on building impactful and innovative tech projects using Full-Stack Development, AI & Machine Learning, and Real-Time Systems.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pururajsinghrajput) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pururaj-singh-9b91a22bb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pururajsingh76@gmail.com) 
